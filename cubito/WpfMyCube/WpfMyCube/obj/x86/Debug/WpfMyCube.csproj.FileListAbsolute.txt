@@ -1,0 +1,64 @@
+D:\Downloads\WpfMyCube\WpfMyCube\WpfMyCube\bin\Debug\WpfMyCube.exe
+D:\Downloads\WpfMyCube\WpfMyCube\WpfMyCube\bin\Debug\WpfMyCube.pdb
+D:\Downloads\WpfMyCube\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.csprojResolveAssemblyReference.cache
+D:\Downloads\WpfMyCube\WpfMyCube\WpfMyCube\obj\x86\Debug\MainWindow.baml
+D:\Downloads\WpfMyCube\WpfMyCube\WpfMyCube\obj\x86\Debug\MainWindow.g.cs
+D:\Downloads\WpfMyCube\WpfMyCube\WpfMyCube\obj\x86\Debug\App.g.cs
+D:\Downloads\WpfMyCube\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube_MarkupCompile.cache
+D:\Downloads\WpfMyCube\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.g.resources
+D:\Downloads\WpfMyCube\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.Properties.Resources.resources
+D:\Downloads\WpfMyCube\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.csproj.GenerateResource.cache
+D:\Downloads\WpfMyCube\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.csproj.CoreCompileInputs.cache
+D:\Downloads\WpfMyCube\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.exe
+D:\Downloads\WpfMyCube\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.pdb
+C:\Users\Joaquin\Desktop\Bluzard\Mayor\Progra 2\WpfMyCube\WpfMyCube\bin\Debug\WpfMyCube.exe
+C:\Users\Joaquin\Desktop\Bluzard\Mayor\Progra 2\WpfMyCube\WpfMyCube\bin\Debug\WpfMyCube.pdb
+C:\Users\Joaquin\Desktop\Bluzard\Mayor\Progra 2\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.csprojAssemblyReference.cache
+C:\Users\Joaquin\Desktop\Bluzard\Mayor\Progra 2\WpfMyCube\WpfMyCube\obj\x86\Debug\MainWindow.baml
+C:\Users\Joaquin\Desktop\Bluzard\Mayor\Progra 2\WpfMyCube\WpfMyCube\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Joaquin\Desktop\Bluzard\Mayor\Progra 2\WpfMyCube\WpfMyCube\obj\x86\Debug\App.g.cs
+C:\Users\Joaquin\Desktop\Bluzard\Mayor\Progra 2\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube_MarkupCompile.cache
+C:\Users\Joaquin\Desktop\Bluzard\Mayor\Progra 2\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.g.resources
+C:\Users\Joaquin\Desktop\Bluzard\Mayor\Progra 2\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.Properties.Resources.resources
+C:\Users\Joaquin\Desktop\Bluzard\Mayor\Progra 2\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.csproj.GenerateResource.cache
+C:\Users\Joaquin\Desktop\Bluzard\Mayor\Progra 2\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Desktop\Bluzard\Mayor\Progra 2\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.exe
+C:\Users\Joaquin\Desktop\Bluzard\Mayor\Progra 2\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.pdb
+C:\Users\papev\Desktop\2019\progra 2019 por mi\Cubo Del joaque\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.exe
+C:\Users\papev\Desktop\2019\progra 2019 por mi\Cubo Del joaque\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.pdb
+C:\Users\papev\Desktop\2019\progra 2019 por mi\Cubo Del joaque\WpfMyCube\WpfMyCube\bin\Debug\WpfMyCube.exe
+C:\Users\papev\Desktop\2019\progra 2019 por mi\Cubo Del joaque\WpfMyCube\WpfMyCube\bin\Debug\WpfMyCube.pdb
+C:\Users\papev\Desktop\2019\progra 2019 por mi\Cubo Del joaque\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.csprojResolveAssemblyReference.cache
+C:\Users\papev\Desktop\2019\progra 2019 por mi\Cubo Del joaque\WpfMyCube\WpfMyCube\obj\x86\Debug\MainWindow.baml
+C:\Users\papev\Desktop\2019\progra 2019 por mi\Cubo Del joaque\WpfMyCube\WpfMyCube\obj\x86\Debug\MainWindow.g.cs
+C:\Users\papev\Desktop\2019\progra 2019 por mi\Cubo Del joaque\WpfMyCube\WpfMyCube\obj\x86\Debug\App.g.cs
+C:\Users\papev\Desktop\2019\progra 2019 por mi\Cubo Del joaque\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube_MarkupCompile.cache
+C:\Users\papev\Desktop\2019\progra 2019 por mi\Cubo Del joaque\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.g.resources
+C:\Users\papev\Desktop\2019\progra 2019 por mi\Cubo Del joaque\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.Properties.Resources.resources
+C:\Users\papev\Desktop\2019\progra 2019 por mi\Cubo Del joaque\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.csproj.GenerateResource.Cache
+C:\Users\MyDam\source\repos\Cubo Del joaque\Cubo Del joaque\WpfMyCube\WpfMyCube\bin\Debug\WpfMyCube.exe
+C:\Users\MyDam\source\repos\Cubo Del joaque\Cubo Del joaque\WpfMyCube\WpfMyCube\bin\Debug\WpfMyCube.pdb
+C:\Users\MyDam\source\repos\Cubo Del joaque\Cubo Del joaque\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.csprojAssemblyReference.cache
+C:\Users\MyDam\source\repos\Cubo Del joaque\Cubo Del joaque\WpfMyCube\WpfMyCube\obj\x86\Debug\MainWindow.baml
+C:\Users\MyDam\source\repos\Cubo Del joaque\Cubo Del joaque\WpfMyCube\WpfMyCube\obj\x86\Debug\MainWindow.g.cs
+C:\Users\MyDam\source\repos\Cubo Del joaque\Cubo Del joaque\WpfMyCube\WpfMyCube\obj\x86\Debug\App.g.cs
+C:\Users\MyDam\source\repos\Cubo Del joaque\Cubo Del joaque\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube_MarkupCompile.cache
+C:\Users\MyDam\source\repos\Cubo Del joaque\Cubo Del joaque\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.g.resources
+C:\Users\MyDam\source\repos\Cubo Del joaque\Cubo Del joaque\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.Properties.Resources.resources
+C:\Users\MyDam\source\repos\Cubo Del joaque\Cubo Del joaque\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.csproj.GenerateResource.cache
+C:\Users\MyDam\source\repos\Cubo Del joaque\Cubo Del joaque\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.csproj.CoreCompileInputs.cache
+C:\Users\MyDam\source\repos\Cubo Del joaque\Cubo Del joaque\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.exe
+C:\Users\MyDam\source\repos\Cubo Del joaque\Cubo Del joaque\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.pdb
+C:\Users\MyDam\source\repos\Cubo Del joaque\cubito\WpfMyCube\WpfMyCube\bin\Debug\WpfMyCube.exe
+C:\Users\MyDam\source\repos\Cubo Del joaque\cubito\WpfMyCube\WpfMyCube\bin\Debug\WpfMyCube.pdb
+C:\Users\MyDam\source\repos\Cubo Del joaque\cubito\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.csprojAssemblyReference.cache
+C:\Users\MyDam\source\repos\Cubo Del joaque\cubito\WpfMyCube\WpfMyCube\obj\x86\Debug\MainWindow.baml
+C:\Users\MyDam\source\repos\Cubo Del joaque\cubito\WpfMyCube\WpfMyCube\obj\x86\Debug\MainWindow.g.cs
+C:\Users\MyDam\source\repos\Cubo Del joaque\cubito\WpfMyCube\WpfMyCube\obj\x86\Debug\App.g.cs
+C:\Users\MyDam\source\repos\Cubo Del joaque\cubito\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube_MarkupCompile.cache
+C:\Users\MyDam\source\repos\Cubo Del joaque\cubito\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.g.resources
+C:\Users\MyDam\source\repos\Cubo Del joaque\cubito\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.Properties.Resources.resources
+C:\Users\MyDam\source\repos\Cubo Del joaque\cubito\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.csproj.GenerateResource.cache
+C:\Users\MyDam\source\repos\Cubo Del joaque\cubito\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.csproj.CoreCompileInputs.cache
+C:\Users\MyDam\source\repos\Cubo Del joaque\cubito\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.exe
+C:\Users\MyDam\source\repos\Cubo Del joaque\cubito\WpfMyCube\WpfMyCube\obj\x86\Debug\WpfMyCube.pdb
